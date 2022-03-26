@@ -1,38 +1,46 @@
 [
     {
       "name": "Rolex",
-      "img": "../src/img/watch-1.jpg"
+      "img": "./img/watch-1.jpg"
     },
     {
-      "name": "Rolex",
-      "img": "../src/img/watch-2.jpg"
+      "name": " Patek Philippe",
+      "img": "./img/watch-1.jpg"
     },
     {
-      "name": "Rolex",
-      "img": "../src/img/watch-3.jpg"
+      "name": " Vacheron Constantin",
+      "img": "./img/watch-1.jpg"
     },
     {
-      "name": "Rolex",
-      "img": "../src/img/watch-4.jpg"
+      "name": "Audemars Piguet",
+      "img": "./img/watch-2.jpg"
     },
     {
-      "name": "Rolex",
-      "img": "../src/img/watch-5.jpg"
+      "name": " Blancpain",
+      "img": "./img/watch-3.jpg"
     },
     {
-      "name": "Rolex",
-      "img": "../src/img/watch-6.jpg"
+      "name": " Ulysse Nardin",
+      "img": "./img/watch-4.jpg"
     },
     {
-      "name": "Rolex",
-      "img": "../src/img/watch-7.jpg"
+      "name": "Jaeger-LeCoultre",
+      "img": "./img/watch-5.jpg"
     },
     {
-      "name": "Rolex",
-      "img": "../src/img/watch-8.jpg"
+      "name": "Omega",
+      "img": "./img/watch-6.jpg"
     },
     {
-      "name": "Rolex",
-      "img": "../src/img/watch-9.jpg"
+      "name": "Glashutte Original",
+      "img": "./img/watch-7.jpg"
+    },
+    {
+      "name": "Jaquet Droz",
+      "img": "./img/watch-8.jpg"
+    },
+    {
+      "name": "Breguet",
+      "img": "./img/watch-9.jpg"
     }
 ]
