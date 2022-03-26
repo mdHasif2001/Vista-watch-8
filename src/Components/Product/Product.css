@@ -2,3 +2,19 @@
     width: 300px;
     height: 200px;
 }
+.product-name{
+    text-align: center;
+    font-weight: 700;
+}
+.btn-cart{
+    border: 0;
+    background-color: white;
+}
+.btn-cart:hover{
+    background-color: rgb(201, 199, 199);
+}
+.btn-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
