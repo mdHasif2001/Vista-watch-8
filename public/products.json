@@ -5,42 +5,34 @@
     },
     {
       "name": " Patek Philippe",
-      "img": "./img/watch-1.jpg"
-    },
-    {
-      "name": " Vacheron Constantin",
-      "img": "./img/watch-1.jpg"
-    },
-    {
-      "name": "Audemars Piguet",
       "img": "./img/watch-2.jpg"
     },
     {
-      "name": " Blancpain",
+      "name": " Vacheron Constantin",
       "img": "./img/watch-3.jpg"
     },
     {
-      "name": " Ulysse Nardin",
+      "name": "Audemars Piguet",
       "img": "./img/watch-4.jpg"
     },
     {
-      "name": "Jaeger-LeCoultre",
+      "name": " Blancpain",
       "img": "./img/watch-5.jpg"
     },
     {
-      "name": "Omega",
+      "name": " Ulysse Nardin",
       "img": "./img/watch-6.jpg"
     },
     {
-      "name": "Glashutte Original",
+      "name": "Jaeger-LeCoultre",
       "img": "./img/watch-7.jpg"
     },
     {
-      "name": "Jaquet Droz",
+      "name": "Omega",
       "img": "./img/watch-8.jpg"
     },
     {
-      "name": "Breguet",
+      "name": "Glashutte Original",
       "img": "./img/watch-9.jpg"
     }
 ]
