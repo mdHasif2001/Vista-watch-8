@@ -1,9 +1,10 @@
 import React from 'react';
+import './Math.css'
 
 const Math = () => {
     return (
-        <div>
-            <h1>Here we go again</h1>
+        <div className='watch-math'>
+            <p>Rolex</p>
         </div>
     );
 };

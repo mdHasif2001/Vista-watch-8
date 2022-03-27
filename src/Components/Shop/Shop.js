@@ -2,10 +2,14 @@ import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import './Shop.css';
+// import Math from '../Math/Math';
+
 
 const Shop = () => {
     const [products, setProducts] = useState([]);
     const [cart, setCart] = useState([]);
+    const [cartName, setCartName] = useState([]);
+    // const [math, setMath] = useState([]);
 
 
     useEffect(() => {
@@ -20,6 +24,11 @@ const Shop = () => {
     const handleAddToCart = (product) => {
         const newCart = [...cart, product];
         setCart(newCart);
+    }
+
+    const getCartItem = (nameProduct) => {
+        const chooseName = [...cartName, nameProduct];
+        setCartName(chooseName);
     }
 
 
@@ -37,7 +46,6 @@ const Shop = () => {
             <div className="cart-container">
                 <Cart cart={cart}></Cart>
             </div>
-
         </div>
     );
 };
