@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Vista Watch project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/Programming-Hero-Web-Course4/lucky-one-mdHasif2001).
 
-## Available Scripts
+## How to run vista watch project through npm:
 
 In the project directory, you can run:
 
@@ -19,6 +19,8 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+## How to host vista watch project and update:
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -29,6 +31,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+`*****If you want to update the project and to host the project you have to run npm run build again`
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**

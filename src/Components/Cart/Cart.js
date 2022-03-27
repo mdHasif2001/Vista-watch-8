@@ -1,10 +1,12 @@
 import React from 'react';
 import './Cart.css';
+import Math from '../Math/Math';
+
 
 const Cart = (props) => {
     const {cart} = props;
 
-    let myName = [];
+    let myName = '';
     for(const myProduct of cart){
       myName = myName + myProduct.name;
     }
@@ -16,7 +18,7 @@ const Cart = (props) => {
             <p className='cart-name'>{myName}</p>
             </p>
             <p><button className='btn-choose-one'>Choose One</button></p>
-            <p></p>
+            <p><Math></Math></p>
             <p><button className='btn-choose-one'>Choose Again</button></p>
         </div>
     );
