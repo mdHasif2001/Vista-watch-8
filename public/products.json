@@ -1,37 +1,46 @@
 [
     {
+      "id": 1,
       "name": "Rolex",
       "img": "./img/watch-1.jpg"
     },
     {
+      "id": 2,
       "name": " Patek Philippe",
       "img": "./img/watch-2.jpg"
     },
     {
+      "id": 3,
       "name": " Vacheron Constantin",
       "img": "./img/watch-3.jpg"
     },
     {
+      "id": 4,
       "name": "Audemars Piguet",
       "img": "./img/watch-4.jpg"
     },
     {
+      "id": 5,
       "name": " Blancpain",
       "img": "./img/watch-5.jpg"
     },
     {
+      "id": 6,
       "name": " Ulysse Nardin",
       "img": "./img/watch-6.jpg"
     },
     {
+      "id": 7,
       "name": "Jaeger-LeCoultre",
       "img": "./img/watch-7.jpg"
     },
     {
+      "id": 8,
       "name": "Omega",
       "img": "./img/watch-8.jpg"
     },
     {
+      "id": 9,
       "name": "Glashutte Original",
       "img": "./img/watch-9.jpg"
     }

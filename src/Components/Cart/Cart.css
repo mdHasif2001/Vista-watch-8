@@ -2,4 +2,25 @@
     text-align: center;
     position: sticky;
     top: 0;
+    margin-top: 96px;
+}
+
+.cart-name{
+    background-color: aliceblue;
+    font-weight: 700;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid gray;
+}
+.btn-choose-one{
+    border: 0;
+    background-color: rgb(201, 199, 199);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-choose-one:hover{
+    background-color: gray;
+    color: white;
 }
